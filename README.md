@@ -168,33 +168,6 @@ A production-oriented AI platform that automates lead qualification through mult
 - Scalable Spring Boot backend
 
 </details>
-
----
-
-# Experience
-
-## Student Independent Developer
-
-**Self-Employed**  
-**Aug 2025 – Present**  
-**Nagpur, India**
-
-Developing production-ready AI-powered software solutions by combining Full Stack Development, Artificial Intelligence, and Software Engineering best practices. Building projects focused on automation, intelligent recommendations, and scalable backend systems while actively participating in hackathons and open-source development. :contentReference[oaicite:0]{index=0}
-
-### Responsibilities
-
-- Engineered **3 AI-powered full-stack applications** using React, Spring Boot, PostgreSQL, Java, and Python.
-- Developed **15+ REST API endpoints** with secure authentication and optimized database design.
-- Built **LLM-powered and Agentic AI workflows** for automation and intelligent decision-making.
-- Applied **Clean Architecture**, Git workflows, testing methodologies, and scalable software engineering principles.
-- Collaborated on hackathons and continuously explored modern AI technologies.
-
-### Technologies
-
-`Java` • `React` • `Spring Boot` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `Python` • `REST APIs` • `Git` • `GitHub` • `Tailwind CSS`
-
----
-
 <details>
 <summary><b>🛡️ AI-Powered Deepfake & Morphed Content Detector</b></summary>
 
@@ -223,6 +196,30 @@ An AI-powered digital identity protection platform designed to detect deepfake i
 - Scalable full-stack architecture using React and Spring Boot
 
 </details>
+
+---
+
+# Experience
+
+## Student Independent Developer
+
+**Self-Employed**  
+**Aug 2025 – Present**  
+**Nagpur, India**
+
+Developing production-ready AI-powered software solutions by combining Full Stack Development, Artificial Intelligence, and Software Engineering best practices. Building projects focused on automation, intelligent recommendations, and scalable backend systems while actively participating in hackathons and open-source development. :contentReference[oaicite:0]{index=0}
+
+### Responsibilities
+
+- Engineered **3 AI-powered full-stack applications** using React, Spring Boot, PostgreSQL, Java, and Python.
+- Developed **15+ REST API endpoints** with secure authentication and optimized database design.
+- Built **LLM-powered and Agentic AI workflows** for automation and intelligent decision-making.
+- Applied **Clean Architecture**, Git workflows, testing methodologies, and scalable software engineering principles.
+- Collaborated on hackathons and continuously explored modern AI technologies.
+
+### Technologies
+
+`Java` • `React` • `Spring Boot` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `Python` • `REST APIs` • `Git` • `GitHub` • `Tailwind CSS`
 
 ---
 
