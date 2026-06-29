@@ -108,41 +108,6 @@ I believe great software is built by combining clean code, problem-solving abili
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|----------|
-| Large Language Models | ⭐⭐⭐⭐⭐ | Prompt Engineering, RAG, LLM Applications |
-| Agentic AI | ⭐⭐⭐⭐☆ | Autonomous AI Workflows, Multi-Agent Systems |
-| NLP | ⭐⭐⭐⭐☆ | Resume Analysis, Skill Matching, Text Intelligence |
-| Recommendation Systems | ⭐⭐⭐⭐☆ | Personalized Recommendation Engines |
-| Backend AI Integration | ⭐⭐⭐⭐⭐ | Spring Boot + Python + REST APIs |
-| AI Product Development | ⭐⭐⭐⭐⭐ | End-to-End AI Solution Development |
-| Full Stack AI Applications | ⭐⭐⭐⭐⭐ | React + Spring Boot + PostgreSQL + LLM Integration |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ | Structured Prompts, System Prompt Design |
-| REST API Development | ⭐⭐⭐⭐⭐ | Production-grade Backend APIs |
-| Database Design | ⭐⭐⭐⭐☆ | PostgreSQL, MySQL, MongoDB |
-
----
-
-# Engineering Philosophy
-
-```text
-✔ Write Clean Code
-
-✔ Build Scalable Systems
-
-✔ Solve Real Problems
-
-✔ Learn Every Day
-
-✔ Ship Production-Ready Software
-
-✔ Never Stop Improving
-```
-
----
-
 # Featured Projects
 
 <details open>
