@@ -8,7 +8,7 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/TGPCET-B.Tech-CSE-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge)
 
 <br>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/rohith-goturi">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -68,7 +68,7 @@ I believe great software is built by combining clean code, problem-solving abili
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
 
 </p>
 
@@ -76,7 +76,7 @@ I believe great software is built by combining clean code, problem-solving abili
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
 
 </p>
 
@@ -108,7 +108,7 @@ I believe great software is built by combining clean code, problem-solving abili
 
 # Featured Projects
 
-<details open>
+<details close>
 <summary><b>🚀 AI Career Copilot</b></summary>
 
 <br>
@@ -138,7 +138,7 @@ An AI-powered career assistant that helps students and job seekers improve their
 
 ---
 
-<details>
+<details close>
 <summary><b>🎙️ AI-Powered Multi-Agent Voice Lead Qualification Platform</b></summary>
 
 <br>
@@ -166,7 +166,7 @@ A production-oriented AI platform that automates lead qualification through mult
 - Scalable Spring Boot backend
 
 </details>
-<details>
+<details close>
 <summary><b>🛡️ AI-Powered Deepfake & Morphed Content Detector</b></summary>
 
 <br>
