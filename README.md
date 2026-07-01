@@ -166,6 +166,9 @@ A production-oriented AI platform that automates lead qualification through mult
 - Scalable Spring Boot backend
 
 </details>
+
+---
+
 <details close>
 <summary><b>🛡️ AI-Powered Deepfake & Morphed Content Detector</b></summary>
 
