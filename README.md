@@ -4,14 +4,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+AI-Powered+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Btech+In +Computer+Science+Engineering;Software+Engineer;AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+AI-Powered+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 
 <br><br>
 
-![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge)
+![](https://img.shields.io/badge/TGPCET-B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge)
 
 <br>
 
@@ -19,7 +17,7 @@
 <img src="https://img.shields.io/badge/GitHub-rohithgoturi-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rohithgoturi28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
