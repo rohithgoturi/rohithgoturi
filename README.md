@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel"/>
 </a>
 
-
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=rohithgoturi&style=for-the-badge&color=blueviolet)
 
