@@ -199,7 +199,7 @@ An AI-powered digital identity protection platform designed to detect deepfake i
 </details>
 
 ---
-
+<details close>
 # Experience
 
 ## Student Independent Developer
@@ -221,6 +221,8 @@ Developing production-ready AI-powered software solutions by combining Full Stac
 ### Technologies
 
 `Java` • `React` • `Spring Boot` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `Python` • `REST APIs` • `Git` • `GitHub` • `Tailwind CSS`
+
+</ details>
 
 ---
 # 📊 GitHub Streak:
