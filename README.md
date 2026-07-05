@@ -31,11 +31,7 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=rohithgoturi&style=for-the-badge&color=blueviolet)
-
-![](https://img.shields.io/github/followers/rohithgoturi?style=for-the-badge&color=8A2BE2)
-
-![](https://img.shields.io/github/stars/rohithgoturi?affiliations=OWNER&style=for-the-badge&color=6f42c1)
+![](https://komarev.com/ghpvc/?username=rohithgoturi&style=for-the-badge&color=blueviolet) ![](https://img.shields.io/github/followers/rohithgoturi?style=for-the-badge&color=8A2BE2) ![](https://img.shields.io/github/stars/rohithgoturi?affiliations=OWNER&style=for-the-badge&color=6f42c1)
 
 </div>
 
