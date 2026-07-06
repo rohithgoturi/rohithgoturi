@@ -276,7 +276,7 @@ Developing production-ready AI-powered software solutions by combining Full Stac
 
 ---
 
-# Support My Work
+# Please Support My Work
 
 <div align="center">
 
