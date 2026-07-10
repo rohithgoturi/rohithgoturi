@@ -238,20 +238,6 @@ Developing production-ready AI-powered software solutions by combining Full Stac
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<p><i>Automatically generated using GitHub Actions.</i></p>
-
-<img src="https://raw.githubusercontent.com/rohithgoturi/rohithgoturi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** To make the snake animation work, you'll need to set up the GitHub Action in your profile repository after publishing your README.
-
----
-
 # Connect With Me
 
 <div align="center">
