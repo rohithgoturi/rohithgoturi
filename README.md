@@ -135,7 +135,7 @@ An AI-powered career assistant that helps students and job seekers improve their
 ---
 
 <details close>
-<summary><b>🎙️ AI-Powered Multi-Agent Voice Lead Qualification Platform</b></summary>
+<summary><b>🎙️ AI-Powered Multi-Agent Voice Lead Qualification </b></summary>
 
 <br>
 
