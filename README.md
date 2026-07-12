@@ -54,7 +54,7 @@ I believe great software is built by combining clean code, problem-solving abili
 - Full Stack Development
 - Open Source Contributions
 - Hackathons
-- Research Collaborations
+
 
 ---
 
