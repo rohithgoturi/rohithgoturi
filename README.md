@@ -42,7 +42,6 @@
 I'm a passionate **Software Engineer** and **AI Engineer** focused on building intelligent, scalable, and production-ready software.
 
 My primary interests lie in **Software Engineering**, **Artificial Intelligence**, **LLMs**, **Agentic AI**, **Backend Engineering**, and **Full Stack Development**. I enjoy solving real-world problems through modern technologies while following clean architecture, scalable design patterns, and engineering best practices.
-
 Currently, I'm pursuing my **B.Tech in Computer Science & Engineering** while continuously improving my Data Structures & Algorithms, System Design fundamentals, and software development skills.
 
 I believe great software is built by combining clean code, problem-solving ability, and user-centric thinking.
