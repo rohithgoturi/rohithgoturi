@@ -5,7 +5,6 @@
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+AI-Powered+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
-
 <br><br>
 
 ![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
