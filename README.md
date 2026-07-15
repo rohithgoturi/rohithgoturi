@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge)
 
-<br>
+<br><br>
 
 <a href="https://github.com/rohithgoturi">
 <img src="https://img.shields.io/badge/GitHub-rohithgoturi-181717?style=for-the-badge&logo=github"/>
