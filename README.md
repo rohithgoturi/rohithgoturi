@@ -48,7 +48,6 @@ I believe great software is built by combining clean code, problem-solving abili
 ### Open To
 
 - Software Engineering Internships
-- AI Engineering Roles
 - Full Stack Development
 - Open Source Contributions
 - Hackathons
