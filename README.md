@@ -82,13 +82,6 @@ I believe great software is built by combining clean code, problem-solving abili
 
 </p>
 
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
 
 ## Cloud • DevOps • Tooling
 
