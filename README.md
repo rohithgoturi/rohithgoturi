@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,20,24,30&text=Rohith%20Goturi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
+
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+AI-Powered+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
